@@ -1,0 +1,13 @@
+C:\Users\olya\source\repos\lab_one\lab_one\bin\Debug\netcoreapp3.1\lab_one.exe
+C:\Users\olya\source\repos\lab_one\lab_one\bin\Debug\netcoreapp3.1\lab_one.deps.json
+C:\Users\olya\source\repos\lab_one\lab_one\bin\Debug\netcoreapp3.1\lab_one.runtimeconfig.json
+C:\Users\olya\source\repos\lab_one\lab_one\bin\Debug\netcoreapp3.1\lab_one.runtimeconfig.dev.json
+C:\Users\olya\source\repos\lab_one\lab_one\bin\Debug\netcoreapp3.1\lab_one.dll
+C:\Users\olya\source\repos\lab_one\lab_one\bin\Debug\netcoreapp3.1\lab_one.pdb
+C:\Users\olya\source\repos\lab_one\lab_one\obj\Debug\netcoreapp3.1\lab_one.csprojAssemblyReference.cache
+C:\Users\olya\source\repos\lab_one\lab_one\obj\Debug\netcoreapp3.1\lab_one.AssemblyInfoInputs.cache
+C:\Users\olya\source\repos\lab_one\lab_one\obj\Debug\netcoreapp3.1\lab_one.AssemblyInfo.cs
+C:\Users\olya\source\repos\lab_one\lab_one\obj\Debug\netcoreapp3.1\lab_one.dll
+C:\Users\olya\source\repos\lab_one\lab_one\obj\Debug\netcoreapp3.1\lab_one.pdb
+C:\Users\olya\source\repos\lab_one\lab_one\obj\Debug\netcoreapp3.1\lab_one.csproj.CoreCompileInputs.cache
+C:\Users\olya\source\repos\lab_one\lab_one\obj\Debug\netcoreapp3.1\lab_one.genruntimeconfig.cache

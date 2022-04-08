@@ -1,0 +1,13 @@
+C:\Users\olya\source\repos\lab_six\lab_six\bin\Debug\netcoreapp3.1\lab_six.exe
+C:\Users\olya\source\repos\lab_six\lab_six\bin\Debug\netcoreapp3.1\lab_six.deps.json
+C:\Users\olya\source\repos\lab_six\lab_six\bin\Debug\netcoreapp3.1\lab_six.runtimeconfig.json
+C:\Users\olya\source\repos\lab_six\lab_six\bin\Debug\netcoreapp3.1\lab_six.runtimeconfig.dev.json
+C:\Users\olya\source\repos\lab_six\lab_six\bin\Debug\netcoreapp3.1\lab_six.dll
+C:\Users\olya\source\repos\lab_six\lab_six\bin\Debug\netcoreapp3.1\lab_six.pdb
+C:\Users\olya\source\repos\lab_six\lab_six\obj\Debug\netcoreapp3.1\lab_six.csprojAssemblyReference.cache
+C:\Users\olya\source\repos\lab_six\lab_six\obj\Debug\netcoreapp3.1\lab_six.AssemblyInfoInputs.cache
+C:\Users\olya\source\repos\lab_six\lab_six\obj\Debug\netcoreapp3.1\lab_six.AssemblyInfo.cs
+C:\Users\olya\source\repos\lab_six\lab_six\obj\Debug\netcoreapp3.1\lab_six.csproj.CoreCompileInputs.cache
+C:\Users\olya\source\repos\lab_six\lab_six\obj\Debug\netcoreapp3.1\lab_six.dll
+C:\Users\olya\source\repos\lab_six\lab_six\obj\Debug\netcoreapp3.1\lab_six.pdb
+C:\Users\olya\source\repos\lab_six\lab_six\obj\Debug\netcoreapp3.1\lab_six.genruntimeconfig.cache

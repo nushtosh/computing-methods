@@ -1,0 +1,13 @@
+C:\Users\olya\source\repos\lab_five\lab_five\obj\Debug\netcoreapp3.1\lab_five.csprojAssemblyReference.cache
+C:\Users\olya\source\repos\lab_five\lab_five\obj\Debug\netcoreapp3.1\lab_five.AssemblyInfoInputs.cache
+C:\Users\olya\source\repos\lab_five\lab_five\obj\Debug\netcoreapp3.1\lab_five.AssemblyInfo.cs
+C:\Users\olya\source\repos\lab_five\lab_five\obj\Debug\netcoreapp3.1\lab_five.csproj.CoreCompileInputs.cache
+C:\Users\olya\source\repos\lab_five\lab_five\bin\Debug\netcoreapp3.1\lab_five.exe
+C:\Users\olya\source\repos\lab_five\lab_five\bin\Debug\netcoreapp3.1\lab_five.deps.json
+C:\Users\olya\source\repos\lab_five\lab_five\bin\Debug\netcoreapp3.1\lab_five.runtimeconfig.json
+C:\Users\olya\source\repos\lab_five\lab_five\bin\Debug\netcoreapp3.1\lab_five.runtimeconfig.dev.json
+C:\Users\olya\source\repos\lab_five\lab_five\bin\Debug\netcoreapp3.1\lab_five.dll
+C:\Users\olya\source\repos\lab_five\lab_five\bin\Debug\netcoreapp3.1\lab_five.pdb
+C:\Users\olya\source\repos\lab_five\lab_five\obj\Debug\netcoreapp3.1\lab_five.dll
+C:\Users\olya\source\repos\lab_five\lab_five\obj\Debug\netcoreapp3.1\lab_five.pdb
+C:\Users\olya\source\repos\lab_five\lab_five\obj\Debug\netcoreapp3.1\lab_five.genruntimeconfig.cache

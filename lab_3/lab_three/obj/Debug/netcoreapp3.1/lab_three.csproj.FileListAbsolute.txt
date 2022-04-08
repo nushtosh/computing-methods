@@ -1,0 +1,13 @@
+C:\Users\olya\source\repos\lab_three\lab_three\bin\Debug\netcoreapp3.1\lab_three.exe
+C:\Users\olya\source\repos\lab_three\lab_three\bin\Debug\netcoreapp3.1\lab_three.deps.json
+C:\Users\olya\source\repos\lab_three\lab_three\bin\Debug\netcoreapp3.1\lab_three.runtimeconfig.json
+C:\Users\olya\source\repos\lab_three\lab_three\bin\Debug\netcoreapp3.1\lab_three.runtimeconfig.dev.json
+C:\Users\olya\source\repos\lab_three\lab_three\bin\Debug\netcoreapp3.1\lab_three.dll
+C:\Users\olya\source\repos\lab_three\lab_three\bin\Debug\netcoreapp3.1\lab_three.pdb
+C:\Users\olya\source\repos\lab_three\lab_three\obj\Debug\netcoreapp3.1\lab_three.csprojAssemblyReference.cache
+C:\Users\olya\source\repos\lab_three\lab_three\obj\Debug\netcoreapp3.1\lab_three.AssemblyInfoInputs.cache
+C:\Users\olya\source\repos\lab_three\lab_three\obj\Debug\netcoreapp3.1\lab_three.AssemblyInfo.cs
+C:\Users\olya\source\repos\lab_three\lab_three\obj\Debug\netcoreapp3.1\lab_three.csproj.CoreCompileInputs.cache
+C:\Users\olya\source\repos\lab_three\lab_three\obj\Debug\netcoreapp3.1\lab_three.dll
+C:\Users\olya\source\repos\lab_three\lab_three\obj\Debug\netcoreapp3.1\lab_three.pdb
+C:\Users\olya\source\repos\lab_three\lab_three\obj\Debug\netcoreapp3.1\lab_three.genruntimeconfig.cache

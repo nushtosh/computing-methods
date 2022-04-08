@@ -1,0 +1,13 @@
+C:\Users\olya\source\repos\lw2\lw2\bin\Debug\netcoreapp3.1\lw2.exe
+C:\Users\olya\source\repos\lw2\lw2\bin\Debug\netcoreapp3.1\lw2.deps.json
+C:\Users\olya\source\repos\lw2\lw2\bin\Debug\netcoreapp3.1\lw2.runtimeconfig.json
+C:\Users\olya\source\repos\lw2\lw2\bin\Debug\netcoreapp3.1\lw2.runtimeconfig.dev.json
+C:\Users\olya\source\repos\lw2\lw2\bin\Debug\netcoreapp3.1\lw2.dll
+C:\Users\olya\source\repos\lw2\lw2\bin\Debug\netcoreapp3.1\lw2.pdb
+C:\Users\olya\source\repos\lw2\lw2\obj\Debug\netcoreapp3.1\lw2.csprojAssemblyReference.cache
+C:\Users\olya\source\repos\lw2\lw2\obj\Debug\netcoreapp3.1\lw2.AssemblyInfoInputs.cache
+C:\Users\olya\source\repos\lw2\lw2\obj\Debug\netcoreapp3.1\lw2.AssemblyInfo.cs
+C:\Users\olya\source\repos\lw2\lw2\obj\Debug\netcoreapp3.1\lw2.csproj.CoreCompileInputs.cache
+C:\Users\olya\source\repos\lw2\lw2\obj\Debug\netcoreapp3.1\lw2.dll
+C:\Users\olya\source\repos\lw2\lw2\obj\Debug\netcoreapp3.1\lw2.pdb
+C:\Users\olya\source\repos\lw2\lw2\obj\Debug\netcoreapp3.1\lw2.genruntimeconfig.cache
